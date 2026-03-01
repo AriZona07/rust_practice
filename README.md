@@ -9,6 +9,7 @@ Por lo mismo no incluye todo lo que vi, sólo lo más relevante
 Se enlistan los recursos que se usaron para estas prácticas
 
 * [w3schools](https://www.w3schools.com/rust/index.php)
+* [Documentación](https://rust-lang.org/es/learn/)
 
 ## Créditos
 

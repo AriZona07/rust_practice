@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "semi_intermediate"
+name = "semi_advanced"
 version = "0.1.0"
